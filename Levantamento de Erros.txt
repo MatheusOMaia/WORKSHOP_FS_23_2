@@ -1,0 +1,34 @@
+Erros encontrados:
+-------------------------------------------
+Tela de Cadastro:
+É possível criar uma conta sem um e-mail existente
+sendo necessário apenas um '@' e um caractere logo após
+
+Ao digitar a senha e clicar fora do campo de senha, não 
+é mais possível encontrar o "mostrar senha"
+-------------------------------------------
+Tela Contas listar:
+Só é possível apagar alguma conta, apenas ao deletar todas
+movimentações da conta previamente
+-------------------------------------------
+Tela Contas criar:
+É possível criar contas com nome formado apenas por ' '
+-------------------------------------------
+Tela de Criar Movimentação:
+Ao inserir o valor é necessário utiizar '.' 
+ao invés de vírgula para colocar o valor dos centavos
+
+-------------------------------------------
+-------------------------------------------
+Sugestões:
+Ter um separador para data/mês/ano nos campos de inserir
+data de movimentação e de pagamento
+
+Ter uma mensagem ao passar o mouse em cima da situação
+de cor vermelha no Resumo Mensal dizendo que o pagamento
+está atrasado.
+
+
+
+
+
