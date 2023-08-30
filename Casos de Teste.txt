@@ -1,0 +1,47 @@
+Desafio 2 - Casos de Teste
+
+Id
+-Descrição
+-Item a ser testado
+-Características a serem testadas
+-Entradas
+-Resultado esperado
+-Ambiente
+
+CT01.1
+-Testar login inválido 
+-Tela de login 
+-Funcionalidade
+-Email:""(vazio)
+-Senha:""(vazio)
+-Mensagem na tela: Login inválido, Email é
+um campo obrigatório,Senha é um campo obrigatório
+-Windows 10
+Navegador: Microsoft Edge
+
+CT01.2
+-Testar login inválido
+-Tela de login
+-Funcionalidade
+-Email:"aaa231212@gmail.com"(conta não existente)
+-Senha:"abc123"
+-Mensagem na tela: Login inválido, email não 
+cadastrado/inserido de forma incorreta ou
+senha incorreta
+-Windows 10
+Navegador: Microsoft Edge
+
+CT02
+-Testar login válido
+-Tela de login
+-Funcionalidade
+-Email:"seubarrrriga1@gmail.com"(conta existente)
+-Senha:"pagueoaluguel"
+-Acesso ao site
+Mensagem na tela: Seja bem vindo 
+Seu Barriga(nome do usuário)
+-Windows 10
+Navegador: Microsoft Edge
+
+
+
